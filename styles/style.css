@@ -231,7 +231,7 @@
     margin-block-end: 20px;
   }
 
-  .gallery__images{
+  .gallery__images {
     gap: 20px;
     grid-template-columns: repeat(3, 1fr);
   }
