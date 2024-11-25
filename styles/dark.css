@@ -1,11 +1,5 @@
 
 .page.theme_dark {
-  --color-fuchsia: #FF0070;
-  --color-violet: #DB00FF;
-  --color-dark-blue: #000028;
-  --color-pink: #F1B2CE;
-  --color-fuchsia-opacity: #FF007040;
-
   --text-color: var(--color-pink);
   --decor-title-color: var(--color-violet);
   --addition-color: var(--color-fuchsia);
@@ -13,11 +7,6 @@
   --content-title-color: var(--color-dark-blue);
   --background-color: var(--color-dark-blue);
   --button-hover: var(--color-fuchsia-opacity);
-  
-  --body-font-family: 'IBM Plex mono', 'monospace';
   --backgound-img: url(../images/cover-image-dark.png);
-
-  --margins: clamp(10px, 2.6vw, 20px);
-
   --decor-visibikity: visible;
 }

@@ -5,6 +5,12 @@
   --color-pink: #F1B2CE;
   --color-fuchsia-opacity: #FF007040;
 
+  --color-pink-2: #FF8DCB;
+  --color-pink-3: #FFC2E6;
+  --colo-pink-4: #FFF1F7;
+  --color-black: #353430;
+  --color-black-opacity: #35343040;
+
   --text-color: var(--color-pink);
   --decor-title-color: var(--color-violet);
   --addition-color: var(--color-fuchsia);
@@ -13,7 +19,7 @@
   --background-color: var(--color-dark-blue);
   --button-hover: var(--color-fuchsia-opacity);
   
-  --body-font-family: 'IBM Plex mono', 'monospace';
+  --body-font-family: 'IBM Plex mono', monospace;
   --backgound-img: url(../images/cover-image-dark.png);
 
   --margins: clamp(10px, 2.6vw, 20px);
