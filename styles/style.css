@@ -226,6 +226,10 @@
     justify-self: end;
   }
 
+  .header__decor-text {
+    margin-inline-start: -20px;
+  }
+
   .section, .section-advice {
     grid-template-columns: 32% 1fr;
   }
@@ -297,7 +301,6 @@
   .header__decor-text {
     font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
     align-self: center;
-    margin-inline-start: -20px;
   }
 
   .section-what {
